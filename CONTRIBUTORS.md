@@ -141,3 +141,4 @@ Add your name to the list below, and send a PR
 |Kevin Samaraweera| [Kevva9844](https://github.com/Kevva9844)|
 |Mulubwa Chungu | [Mulubwa17](https://github.com/Mulubwa17)|
 |Shreyansh Jain | [jain-shreyansh](https://github.com/jain-shreyansh/)|
+|Vitalii Leshchenko | [vitaliaventel](https://github.com/vitaliaventel/)|
